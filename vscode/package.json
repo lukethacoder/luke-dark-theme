@@ -1,8 +1,8 @@
 {
   "name": "luke-dark",
-  "displayName": "Luke Dark Theme",
+  "displayName": "Luke Dark Pro",
   "description": "Custom IDE Theme based on One Dark Pro, with some personal tweaks.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "lukethacoder",
   "icon": "./img/logo.png",
   "engines": {
