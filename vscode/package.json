@@ -1,0 +1,23 @@
+{
+  "name": "luke-dark",
+  "displayName": "Luke Dark Theme",
+  "description": "Custom IDE Theme based on One Dark Pro, with some personal tweaks.",
+  "version": "0.0.1",
+  "publisher": "lukethacoder",
+  "icon": "./img/logo.png",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Luke Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Luke Dark-color-theme.json"
+      }
+    ]
+  }
+}
