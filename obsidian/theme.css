@@ -1,0 +1,57 @@
+/* Luke Dark */
+.theme-dark {
+	--color-base-00: #0E0D0F;
+	--color-base-05: #121113;
+	--color-base-10: #161618;
+	--color-base-20: #19181B;
+	--color-base-25: #2D2B31;
+	--color-base-30: #363636;
+	--color-base-35: #413E46;
+	--color-base-40: #55525C;
+	--color-base-50: #696571;
+	--color-base-60: #928E9A;
+	--color-base-70: #B1AEB7;
+	--color-base-80: #DDDCE0;
+	--color-base-90: #ECEBED;
+	--color-base-100: #fff;
+
+	--color-primary-50:	#FFF3E3;
+	--color-primary-100:	#FFE7CC;
+	--color-primary-200:	#FFDBB5;
+	--color-primary-300:	#FFD09E;
+	--color-primary-400:	#FFC87F; /* Accent */
+	--color-primary-500:	#E8BC6D;
+	--color-primary-600:	#D9B262; /* Primary */
+	--color-primary-700:	#C2A255;
+	--color-primary-800:	#A68948;
+	--color-primary-900:	#8A703A;
+
+  --interactive-accent: var(--color-primary-900);
+  --interactive-accent-hover: var(--color-primary-700);
+  --text-accent: var(--color-primary-600);
+  --text-accent-hover: var(--color-primary-300);
+  --divider-color: var(--color-base-25);
+  --divider-color-hover: var(--color-primary-600);
+
+	--background-primary: var(--color-base-10);
+	--background-secondary: var(--color-base-05);
+	--titlebar-background: var(--color-base-05);
+	--titlebar-background-focused: var(--color-base-20);
+
+  /* Syntax Highlighting */
+  --code-normal: #abb2bf;
+  --code-comment: #5c6370;
+  --code-function: #61afef;
+  --code-important: #e5c07b;
+  --code-keyword: #c678dd;
+  --code-operator: #56b6c2;
+  --code-property: #e5c07b;
+  --code-punctuation: #ABB2BF;
+  --code-string: #98c379;
+  --code-tag: #e06c75;
+  --code-value: #d19a66;
+  
+  /* Extra Variables */
+  --stock-down: rgb(210, 43, 95);
+  --stock-up: rgb(51, 184, 152);
+}
