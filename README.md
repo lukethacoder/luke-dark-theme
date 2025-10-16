@@ -5,6 +5,7 @@ Custom IDE Theme based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pr
 Available for:
 - VS Code: [./vscode](./vscode)
 - Obsidian: [./obsidian](./obsidian)
+- Zed: [./zed](./zed)
 - Jetbrains: WIP
 
 ## [VS Code](./vscode)
