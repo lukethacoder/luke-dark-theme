@@ -6,6 +6,7 @@ Available for:
 - Zed: [./zed](./zed)
 - Obsidian: [./obsidian](./obsidian)
 - VS Code: [./vscode](./vscode)
+- Ghostty: [./ghostty](./ghostty)
 - OpenCode: [./opencode](./opencode)
 
 ## [VS Code](./vscode)
