@@ -1,12 +1,12 @@
 # [luke-dark-theme](https://github.com/lukethacoder/luke-dark-theme)
 
-Custom IDE Theme based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), with some personal tweaks.
+Custom IDE Theme based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), with some personal tweaks (mostly darker backgrounds).
 
 Available for:
-- VS Code: [./vscode](./vscode)
-- Obsidian: [./obsidian](./obsidian)
 - Zed: [./zed](./zed)
-- Jetbrains: WIP
+- Obsidian: [./obsidian](./obsidian)
+- VS Code: [./vscode](./vscode)
+- OpenCode: [./opencode](./opencode)
 
 ## [VS Code](./vscode)
 
